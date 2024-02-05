@@ -22,6 +22,8 @@ The system should also support users to prove ownership of properties shown in t
 Therefore, this system is not a real-estate selling platform, but more of a suggestion maker in terms of what a "fair" price range should be for a property. This recommender tries to predict the "fair" price in the given context (example of relevant parameters: floor, area, distance from the center, average area prices, selling history for that property, and so on...). 
 Additionally, the app may track the traffic of interest for a given property and very slightly adjust the shown price ranges accordingly. Another useful function may be to let users save favorites and keep track of this kind of data, to further enrich the price range recommendations. The developed client app should contribute to a more transparent market, simplifying the starting point of research into buying a new property.
 
+Currently, this project is duplicated and from the main repository with all project collaborators
+
 ## Project Structure
 
 ### Backend

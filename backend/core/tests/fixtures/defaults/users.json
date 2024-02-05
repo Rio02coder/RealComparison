@@ -1,0 +1,17 @@
+[
+    {
+        "model": "core.user",
+        "pk": 1,
+        "fields": {
+            "first_name": "Ivan",
+            "last_name": "Willams",
+            "phone_number": "+447851885519",
+            "email": "ivanwillams@example.org",
+            "password": "pbkdf2_sha256$320000$ugfyQzdOZqasPOv8vY9lj5$3B7ylrLTeZq5QGaOVp8KdcfClnUITRbjHlCMZTJVy/k=",
+            "service": "REMOTE",
+            "is_verified": false,
+            "date_joined": "2022-04-02",
+            "is_active": true
+        }
+    }
+]

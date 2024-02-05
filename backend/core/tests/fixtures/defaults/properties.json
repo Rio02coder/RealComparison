@@ -1,0 +1,37 @@
+[
+    {
+      "model": "core.property",
+      "pk": 1,
+      "fields": {
+        "city": "austin",
+        "street_address": "201 Marly Way",
+        "zipcode": "78733",
+        "latitude": 30.43,
+        "longitude": -97.66,
+        "has_garage": true,
+        "has_cooling": true,
+        "has_heating": true,
+        "has_association" : false,
+        "num_of_bathrooms": 3,
+        "num_of_bedrooms": 3,
+        "num_of_stories": 2,
+        "latest_sale_price": 295000.0,
+        "predicted_price": 240000.0,
+        "latest_sale_year": "2020",
+        "num_price_changes": 2,
+        "lot_size": 109335.00,
+        "living_area": 109292.0,
+        "type": "Single Family",
+        "year_built": 2012,
+        "tax_rate": 1.98,
+        "avg_school_rating": 1.11,
+        "avg_school_size": 1500,
+        "avg_school_distance": 1.5,
+        "median_students_per_teacher": 120,
+        "creator": "ivanwillams@example.org",
+        "added_at": "2021-12-12",
+        "owner": null,
+        "image_urls": ["https://austin-properties.s3.eu-west-2.amazonaws.com/default-image.png"]
+      }
+    }
+]

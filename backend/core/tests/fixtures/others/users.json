@@ -1,0 +1,49 @@
+[
+    {
+        "model": "core.user",
+        "pk": 2,
+        "fields": {
+            "first_name": "Leon",
+            "last_name": "Jebron",
+            "phone_number": "+447413718684",
+            "email": "jebronleon@example.org",
+            "password": "pbkdf2_sha256$320000$ugfyQzdOZqasPOv8vY9lj5$3B7ylrLTeZq5QGaOVp8KdcfClnUITRbjHlCMZTJVy/k=",
+            "service": "UNSPLASH",
+            "is_verified": true,
+            "date_joined": "2022-04-02",
+            "is_active": true
+        }
+    },
+
+    {
+        "model": "core.user",
+        "pk": 3,
+        "fields": {
+            "first_name": "Maggiery",
+            "last_name": "Naggiery",
+            "phone_number": "+447985634119",
+            "email": "maggyN@example.org",
+            "password": "pbkdf2_sha256$320000$ugfyQzdOZqasPOv8vY9lj5$3B7ylrLTeZq5QGaOVp8KdcfClnUITRbjHlCMZTJVy/k=",
+            "service": "UNSPLASH",
+            "is_verified": false,
+            "date_joined": "2022-04-02",
+            "is_active": true
+        }
+    },
+
+    {
+        "model": "core.user",
+        "pk": 4,
+        "fields": {
+            "first_name": "Dan",
+            "last_name": "Well",
+            "phone_number": "+359885550138",
+            "email": "danwell@example.org",
+            "password": "pbkdf2_sha256$320000$ugfyQzdOZqasPOv8vY9lj5$3B7ylrLTeZq5QGaOVp8KdcfClnUITRbjHlCMZTJVy/k=",
+            "service": "REMOTE",
+            "is_verified": true,
+            "date_joined": "2022-04-02",
+            "is_active": true
+        }
+    }
+]

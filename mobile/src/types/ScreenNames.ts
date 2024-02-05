@@ -1,0 +1,18 @@
+export enum ScreenNames {
+  Login = 'Login',
+  Signup = 'Signup',
+  Property = 'Property',
+  Core = 'Core',
+  PropertyList = 'PropertyList',
+  MapScreen = 'MapScreen',
+  FavouritePropertyList = 'FavouritePropertyList',
+  // FavouritePropertyList = 'FavouritePropertyList',
+  // CreatedPropertyList = 'CreatedPropertyList',
+  RecommendationsList = 'RecommendationsList',
+  ChangePassword = 'ChangePassword',
+  EditProfile = 'EditProfile',
+  PropertyAdder = 'PropertyAdder',
+  Link = 'Link',
+  Profile = 'Profile',
+  Search = 'Search',
+}

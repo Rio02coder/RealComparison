@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "781611841265",
+    "project_id": "realcomparison-2d051",
+    "storage_bucket": "realcomparison-2d051.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781611841265:android:49c1a1ae4d9cade2625b50",
+        "android_client_info": {
+          "package_name": "com.realcomparison"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781611841265-0bmv5vdq5qai56vamolaccpg3m6amb9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIPCxgWCCyTRoOI0yoMUFxQkLRa9Wx_A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781611841265-0bmv5vdq5qai56vamolaccpg3m6amb9q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "781611841265-for3v8l5lknn5el6oria8oe2goaer7nj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.RealComparison"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

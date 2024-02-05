@@ -1,0 +1,34 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+djangorestframework = "*"
+django-cors-headers = "*"
+django-phonenumber-field = {extras = ["phonenumberslite"], version = "*"}
+django-filter = "*"
+coverage = "*"
+faker = "*"
+requests = "*"
+pillow = "*"
+django-storages = "*"
+boto3 = "*"
+python-dotenv = "*"
+django-password-validators = "*"
+aenum = "*"
+typing-extensions = "*"
+pandas = "*"
+xgboost = "*"
+sklearn = "*"
+"backports.zoneinfo" = "*"
+numpy = "*"
+
+[dev-packages]
+mypy = "*"
+django-stubs = "*"
+pylint = "*"
+
+[requires]
+python_version = "3.10"

@@ -71,7 +71,7 @@ Currently the application is making use of the: **RandomForest regressor**
     - Sign In/Up in https://www.kaggle.com/
     - Go to Your Profile -> Account -> API -> Create New API Token
     - Open the handbook -> Files -> Drop the downloaded API Token under sample_data
-    - Add the three .sav files into your google drive (The files can be found here: https://github.com/tomaAlex/RealComparison/tree/main/backend/static)
+    - Add the three .sav files into your google drive (The files can be found here: https://github.com/Rio02coder/RealComparison/tree/main/backend/static)
     - Run all code blocks in order from top to bottom
 
 ---
